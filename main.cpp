@@ -9,5 +9,6 @@ using namespace std;
 int
 main(){
 	cout << "angelo" << endl;
+	int i = 0;
 	return 0;
 }
