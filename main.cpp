@@ -7,6 +7,7 @@
 using namespace std;
 
 void print(){
+	return;
 }
 
 int
