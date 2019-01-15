@@ -14,7 +14,7 @@ void print(){
 void privato(){
 }
 void mio(){
-	
+	print("SS")
 }
 
 int
