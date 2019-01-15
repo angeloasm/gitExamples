@@ -17,6 +17,10 @@ void mio(){
 	print("SS")
 }
 
+void mioss(){
+	
+}
+
 int
 main(){
 	cout << "angelos" << endl;
