@@ -12,6 +12,8 @@ void print(){
 }
 
 void privato(){
+}
+void mio(){
 	
 }
 
