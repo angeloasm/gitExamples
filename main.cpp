@@ -11,6 +11,10 @@ void print(){
 	return;
 }
 
+void privato(){
+	
+}
+
 int
 main(){
 	cout << "angelos" << endl;
@@ -18,3 +22,4 @@ main(){
 	int j=0;
 	return 0;
 }
+
