@@ -6,6 +6,9 @@
 
 using namespace std;
 
+void print(){
+}
+
 int
 main(){
 	cout << "angelo" << endl;
