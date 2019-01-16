@@ -7,7 +7,8 @@
 using namespace std;
 
 void print(){
-	int i = 55;
+	int i = 0;
+	int j=0;
 	return;
 }
 
