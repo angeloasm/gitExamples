@@ -12,6 +12,7 @@ void print(){
 }
 
 void privato(){
+	cout << "ang" << endl;
 }
 void mio(){
 	print("SS")
