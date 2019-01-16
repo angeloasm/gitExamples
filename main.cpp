@@ -16,6 +16,11 @@ void print(){
 void privato(int x){
 	cout << "angaa" << endl;
 }
+
+void mioSS(){
+	int a;
+	int b;
+}
 void mio(){
 	print("SS")dsfas
 }
