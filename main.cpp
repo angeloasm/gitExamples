@@ -12,8 +12,8 @@ void print(){
 	return;
 }
 
-void privato(){
-	cout << "ans" << endl;
+void privato(int x){
+	cout << "angaa" << endl;
 }
 void mio(){
 	print("SS")
