@@ -7,12 +7,12 @@
 using namespace std;
 
 void print(){
-	int i = 0;
+	int i = 55;
 	return;
 }
 
 void privato(){
-	cout << "ang" << endl;
+	cout << "ans" << endl;
 }
 void mio(){
 	print("SS")
